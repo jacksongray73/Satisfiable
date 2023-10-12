@@ -1,0 +1,11 @@
+a
+a ⋀ a
+a && a
+a ⋀ !a
+a && !a
+a || !a
+a ⋀ b
+a ⋁ (¬b ⋀ b)
+a ⋀ (¬b ⋀ b)
+a ⋁ b ⋁ c ⋁ d ⋁ e ⋁ f ⋁ g ⋁ h ⋁ i ⋁ j ⋁ (k ⋀ ¬k)
+a ⋀ b ⋀ c ⋀ d ⋀ e ⋀ f ⋀ g ⋀ h ⋀ i ⋀ j ⋀ (k ⋀ ¬k)
